@@ -2,4 +2,6 @@
 SpriteKit Drag Example
 
 
-[![SpriteKit Drag Example](https://www.youtube.com/upload_thumbnail?v=3PprQIM2myA&t=hqdefault&ts=1511975799133)](https://youtu.be/3PprQIM2myA)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=3PprQIM2myA"><img src="https://img.youtube.com/vi/3PprQIM2myA/0.jpg" alt=""></a>
+</div>
