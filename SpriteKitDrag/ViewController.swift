@@ -13,18 +13,13 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
-        
         
         let scene = GameScene(size: CGSize(width: view.bounds.size.width, height: 400))
-        
-        //830 1240
         let skView = SKView(frame: CGRect(x: 0, y: 200, width: view.bounds.size.width, height: 400))
         skView.backgroundColor = .clear
         skView.showsFPS = true
         skView.showsNodeCount = true
         skView.ignoresSiblingOrder = true
-        //scene.scaleMode = .resizeFill
         skView.presentScene(scene)
         
         self.view.addSubview(skView)
